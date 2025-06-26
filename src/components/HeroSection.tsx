@@ -19,9 +19,9 @@ const HeroSection = () => {
           STONEHAND
         </h1>
 
-        <p className="text-slate-300 mb-12 max-w-3xl mx-auto leading-relaxed text-left text-2xl font-light">
+        <p className="mb-12 max-w-3xl mx-auto leading-relaxed text-left font-light px-0 text-slate-400 text-xl">
           Приватный сервер Майнкрафт с приятным сообществом и интересным
-          сюжетом. Насладись ванилой - по максимуму
+          сюжетом. Никаких гриферов или доната - только ванильный геймплей!
         </p>
 
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4">

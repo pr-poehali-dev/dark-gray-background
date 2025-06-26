@@ -30,7 +30,7 @@ const Navigation = () => {
         <div className="flex justify-between items-center h-16">
           <div className="flex items-center space-x-4">
             <div className="flex items-center space-x-2">
-              <Icon name="Gamepad2" className="text-purple-400" size={24} />
+              <Icon name="Gamepad2" className="text-yellow-400" size={24} />
               <span className="font-bold text-xl text-white">GameWiki</span>
             </div>
           </div>
@@ -41,7 +41,7 @@ const Navigation = () => {
               const baseClasses =
                 "flex items-center space-x-2 px-3 py-2 rounded-lg transition-all duration-200 hover:bg-slate-700/50";
               const activeClasses = isActive
-                ? "bg-purple-600/20 text-purple-300"
+                ? "bg-yellow-400/20 text-yellow-300"
                 : "text-slate-300 hover:text-white";
 
               if (item.isExternal) {

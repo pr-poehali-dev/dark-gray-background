@@ -19,7 +19,7 @@ const features: Feature[] = [
     title: "Builds и конфигурации",
     description: "Оптимальные сборки персонажей, настройки игр и железа",
     icon: "Settings",
-    color: "from-purple-500 to-pink-500",
+    color: "from-yellow-400 to-amber-500",
   },
   {
     title: "Активное сообщество",

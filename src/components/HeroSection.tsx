@@ -24,17 +24,7 @@ const HeroSection = () => {
           сюжетом. Никаких гриферов или доната - только ванильный геймплей!
         </p>
 
-        <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
-          <button className="bg-yellow-500 hover:bg-yellow-600 text-white px-8 py-4 rounded-lg font-semibold transition-all duration-200 flex items-center space-x-2 hover-scale">
-            <Icon name="BookOpen" size={20} />
-            <span>Открыть Wiki</span>
-          </button>
-
-          <button className="bg-slate-700/50 hover:bg-slate-600/50 text-white px-8 py-4 rounded-lg font-semibold transition-all duration-200 flex items-center space-x-2 border border-slate-600 hover:border-slate-500">
-            <Icon name="Users" size={20} />
-            <span>Присоединиться</span>
-          </button>
-        </div>
+        <div className="flex flex-col sm:flex-row items-center justify-center gap-4"></div>
       </div>
     </div>
   );

@@ -15,11 +15,8 @@ const HeroSection = () => {
           </div>
         </div>
 
-        <h1 className="text-5xl md:text-6xl font-bold text-white mb-6 leading-tight">
-          База знаний для
-          <span className="text-transparent bg-clip-text bg-gradient-to-r from-yellow-400 to-amber-400 block">
-            настоящих геймеров
-          </span>
+        <h1 className="text-5xl md:text-6xl font-bold text-white mb-6 leading-tight text-left">
+          STONEHAND
         </h1>
 
         <p className="text-xl text-slate-300 mb-12 max-w-3xl mx-auto leading-relaxed">

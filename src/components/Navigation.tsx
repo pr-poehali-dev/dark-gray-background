@@ -31,7 +31,7 @@ const Navigation = () => {
           <div className="flex items-center space-x-4">
             <div className="flex items-center space-x-2">
               <Icon name="Gamepad2" className="text-yellow-400" size={24} />
-              <span className="font-bold text-xl text-white">GameWiki</span>
+              <span className="font-bold text-xl text-white">SH</span>
             </div>
           </div>
 

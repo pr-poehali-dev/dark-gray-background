@@ -43,9 +43,7 @@ const FeatureGrid = () => {
           <h2 className="text-4xl font-bold text-white mb-4">
             Наши особенности
           </h2>
-          <p className="text-xl text-slate-400 max-w-2xl mx-auto">
-            От новичка до про-игрока — найдешь информацию для любого уровня
-          </p>
+          <p className="text-xl text-slate-400 max-w-2xl mx-auto"></p>
         </div>
 
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">

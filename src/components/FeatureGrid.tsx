@@ -41,7 +41,7 @@ const FeatureGrid = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="text-4xl font-bold text-white mb-4">
-            Все что нужно геймеру
+            Наши особенности
           </h2>
           <p className="text-xl text-slate-400 max-w-2xl mx-auto">
             От новичка до про-игрока — найдешь информацию для любого уровня

@@ -15,8 +15,9 @@ const features: Feature[] = [
     color: "from-blue-500 to-cyan-500",
   },
   {
-    title: "Builds и конфигурации",
-    description: "Оптимальные сборки персонажей, настройки игр и железа",
+    title: "Сборка",
+    description:
+      "Функциональный модпак улучшающий оптимизацию и комфорт во время игры",
     icon: "Settings",
     color: "from-yellow-400 to-amber-500",
   },

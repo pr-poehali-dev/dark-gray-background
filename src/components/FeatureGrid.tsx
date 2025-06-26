@@ -58,12 +58,13 @@ const FeatureGrid = () => {
                 <Icon name={feature.icon} className="text-white" size={24} />
               </div>
 
-              <h3 className="text-xl font-semibold text-white mb-3">
-                {feature.title}
+              <h3 className="text-xl font-semibold text-white mb-3 group-hover:text-blue-300 transition-colors">
+                {index === 0 ? "История" : feature.title}
               </h3>
-
               <p className="text-slate-400 leading-relaxed">
-                {feature.description}
+                {index === 0
+                  ? "Интересный сюжет для исследователей кубического мира"
+                  : feature.description}
               </p>
             </div>
           ))}

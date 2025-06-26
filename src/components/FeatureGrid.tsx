@@ -9,9 +9,8 @@ interface Feature {
 
 const features: Feature[] = [
   {
-    title: "Гайды и стратегии",
-    description:
-      "Подробные руководства от опытных игроков для всех уровней сложности",
+    title: "Сюжет",
+    description: "Интересная история для исследователей кубического мира",
     icon: "BookOpen",
     color: "from-blue-500 to-cyan-500",
   },
